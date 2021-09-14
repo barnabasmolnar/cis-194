@@ -4,7 +4,7 @@ cabal-version: 1.12
 --
 -- see: https://github.com/sol/hpack
 --
--- hash: 137fec3b679053f3d84dba59969f4946889f23427d9231c3b0ab8d64ac94bda1
+-- hash: 6a4ff6327c5503ceb177d6fab7033adfc6695217a1f1a0edcdc303c5da2bb529
 
 name:           cis194
 version:        0.1.0.0
@@ -29,6 +29,8 @@ library
   exposed-modules:
       Homework1.CreditCardValidation
       Homework1.TowersOfHanoi
+      Homework2.Log
+      Homework2.ParseLogFile
   other-modules:
       Paths_cis194
   hs-source-dirs:

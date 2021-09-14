@@ -16,3 +16,16 @@ Despite the instructions in **Exercise 4** in that
 > This will use all functions defined in the previous exercises.
 
 I ended up not using `toDigitsRev` for the final `validate` function, as the `doubleEveryOther` function already does right-to-left doubling of every other digit.
+
+## Homework 2
+
+- [Lecture notes](https://www.seas.upenn.edu/~cis194/spring13/lectures/02-ADTs.html)
+- [Homework exercises](https://www.seas.upenn.edu/~cis194/spring13/hw/02-ADTs.pdf)
+
+Notes:
+
+Can be tested with:
+
+```hs
+testWhatWentWrong parse whatWentWrong' "./src/Homework2/error.log"
+```
