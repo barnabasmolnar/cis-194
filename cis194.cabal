@@ -4,7 +4,7 @@ cabal-version: 1.12
 --
 -- see: https://github.com/sol/hpack
 --
--- hash: 6a4ff6327c5503ceb177d6fab7033adfc6695217a1f1a0edcdc303c5da2bb529
+-- hash: e5cd56ff3b496717fa12bb0236f2ba8e874c816c09b4229793fbbd5fc4624c4a
 
 name:           cis194
 version:        0.1.0.0
@@ -31,6 +31,9 @@ library
       Homework1.TowersOfHanoi
       Homework2.Log
       Homework2.ParseLogFile
+      Homework3.Histogram
+      Homework3.Hopscotch
+      Homework3.LocalMaxima
   other-modules:
       Paths_cis194
   hs-source-dirs:
